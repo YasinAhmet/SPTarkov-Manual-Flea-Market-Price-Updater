@@ -1,0 +1,21 @@
+{
+    "data": {
+        "itemsByType": [
+            {
+                "id": "5448ba0b4bdc2d02308b456c",
+                "name": "Factory emergency exit key",
+                "avg24hPrice": 102155
+            },
+            {
+                "id": "5448bd6b4bdc2dfc2f8b4569",
+                "name": "Makarov PM 9x18PM pistol",
+                "avg24hPrice": 19811
+            },
+            {
+                "id": "5448be9a4bdc2dfd2f8b456a",
+                "name": "RGD-5 hand grenade",
+                "avg24hPrice": 25555
+            }
+        ]
+    }
+}
