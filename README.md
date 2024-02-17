@@ -1,4 +1,4 @@
-# SPTarkov-Manual-Flea-Market-Price-Updater
+# SPTarkov-Manual-Flea-Market-Price-Updater README
 This mod basically draws live prices from Tarkov.Dev's API. Besides of that, you can add manual prices as well, and the manual prices you add will override the live prices.
 
 1- Go to [Mod Folder] => [Config] => [MyCustomPricePacks]. In that folder, you will find MyTestPricePack.json. Check that test file to understand the format. You can make your own price packs(Each json file is a pack) and drop them to the folder whenever you want the prices to be activated. In this way, you can easily deactivate specific packs by dragging them out of the MyCustomPricePacks folder. DO NOT RENAME OR REMOVE MyCustomPricePacks folder.
