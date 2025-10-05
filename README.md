@@ -13,3 +13,6 @@ Good to know:
 *This mod is meant to be used with lots of different price packs, a.k.a more than a couple Jsons. If you dump all of your manual prices in a single file, it will be hard to operate for you.
 
 *RGD-5 Hand Grenade is 25k rubbles for testing purposes. Don't forget to remove it from MyTestPricePack.json
+
+
+EDIT: I did not know how to use jsons back then ;)
